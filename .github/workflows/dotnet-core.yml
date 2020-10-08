@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: GreeAC-ConfigTool 
-        path: GreeAC-ConfigTool/bin/Debug/netcoreapp3.1/publish/
+        path: D:\a\GreeAC-ConfigTool\GreeAC-ConfigTool\bin\Debug\netcoreapp3.1\publish\
